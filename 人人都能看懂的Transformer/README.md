@@ -2,7 +2,7 @@
 
 深度解析Transformer（大模型场景），提供图、代码等，力求每个人都能吃透它。
 
-有疑惑的地方欢迎issue或邮件我，😀Enjoin！
+有疑惑的地方欢迎issue或邮件我，😀Enjoy！
 
 [Attention Is All You Need 论文地址](https://arxiv.org/pdf/1706.03762)
 
